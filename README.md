@@ -15,7 +15,7 @@ This is a Python-based movie recommendation system that suggests movies to users
   
 * These are the predicted movies with their respective titles and genres:
   
-  ![image](https://user-images.githubusercontent.com/32584958/153116118-d9b98a24-d626-47fa-93c3-85b4baf5dc12.png)
+  ![image](https://user-images.githubusercontent.com/32584958/153116425-4cef22cd-8bc3-4f5b-96b8-ca241602f7fd.png)
   
 * User 5’s actual highest rated movies include “Unusual Suspects”, “Run Lola Run”, “Laputa: Castle in the Sky”, and “Sink the Bismark!”, all of which have mixtures of
 genres Action, Crime, Adventure, Mystery, Thriller, and Drama. So the predicted recommendations match user 5’s taste.
