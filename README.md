@@ -11,11 +11,11 @@ This is a Python-based movie recommendation system that suggests movies to users
 ## Demo
 * If we choose user 5 to recommend movies to, these are the movies that are predicted to have the highest ratings:
   
-  ![image](https://user-images.githubusercontent.com/32584958/153116017-959336ec-84bb-41bb-bc7b-db1bf50c84cf.png)
+  ![image](https://user-images.githubusercontent.com/32584958/153116425-4cef22cd-8bc3-4f5b-96b8-ca241602f7fd.png)
   
 * These are the predicted movies with their respective titles and genres:
   
-  ![image](https://user-images.githubusercontent.com/32584958/153116425-4cef22cd-8bc3-4f5b-96b8-ca241602f7fd.png)
+  ![image](https://user-images.githubusercontent.com/32584958/153116017-959336ec-84bb-41bb-bc7b-db1bf50c84cf.png)
   
 * User 5’s actual highest rated movies include “Unusual Suspects”, “Run Lola Run”, “Laputa: Castle in the Sky”, and “Sink the Bismark!”, all of which have mixtures of
 genres Action, Crime, Adventure, Mystery, Thriller, and Drama. So the predicted recommendations match user 5’s taste.
