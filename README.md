@@ -4,7 +4,7 @@ This is a Python-based movie recommendation system built using Jupyter Notebook 
 ## Project Description
 * This program uses the MovieLens dataset to recommend movies by considering not only user reviews, but also the genres of the highest rated movies.
   * The MovieLens dataset contains more than 20 million user ratings and 62,000 movies ranging from 1995 to 2019.
-  * 
+  
   ![image](https://user-images.githubusercontent.com/32584958/153115879-441c2fc6-f4e2-4b66-b765-a53012026e68.png)
   
 * We clean the dataset by limiting to only 20,000 movies and 6,738 users, with each user having at least 20 ratings for separate movies to maximize the predictions' accuracy.
