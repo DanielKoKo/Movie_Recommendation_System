@@ -1,5 +1,5 @@
 # Movie_Recommendation_System
-This is a Python-based movie recommendation system built using Jupyter Notebook that suggests movies to users based on their existing reviews.
+This is a Python-based movie recommendation system built using Jupyter Notebook that suggests movies to users based on their existing reviews. The recommendation system is built using *Collaborative Filtering* in conjunction with *Cosine Similiarity*.
 
 ## Project Description
 * This program uses the MovieLens dataset to recommend movies by considering not only user reviews, but also the genres of the highest rated movies.
